@@ -1,0 +1,12 @@
+.href {
+    display: flex;
+    flex-flow: column;
+}
+
+.links a:after {
+    color:rgb(0, 204, 204) blue;
+    content: "";
+    display: block;
+    height: 0;
+    width: 1px;
+  }
